@@ -1,8 +1,8 @@
+---
 layout: page
 title: "Test page 2"
 permalink: /testpage2/
-
----------------------------------------------------------------
+---
 
 # Heading 1
 
