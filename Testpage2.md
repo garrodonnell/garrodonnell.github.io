@@ -1,6 +1,6 @@
 layout: page
 title: "Test page 2"
-permalink: /testpage2
+permalink: /testpage2/
 
 ---------------------------------------------------------------
 
